@@ -1,0 +1,9 @@
+[submodule "multi-module-multi-module-1"]
+	path = multi-module-multi-module-1
+	url = https://github.com/Lawrence-M-Reynolds/multi-module-multi-module-1.git
+[submodule "multi-module-multi-module-2"]
+	path = multi-module-multi-module-2
+	url = https://github.com/Lawrence-M-Reynolds/multi-module-multi-module-2.git
+[submodule "multi-module-multi-module-3"]
+	path = multi-module-multi-module-3
+	url = https://github.com/Lawrence-M-Reynolds/multi-module-multi-module-3.git

@@ -19,9 +19,9 @@
   </properties>
 
   <modules>
-    <module>../multi-module-1</module>
-    <module>../multi-module-2</module>
-    <module>../multi-module-3</module>
+    <module>multi-module-multi-module-1</module>
+    <module>multi-module-multi-module-2</module>
+    <module>multi-module-multi-module-3</module>
   </modules>
 
   <dependencies>
